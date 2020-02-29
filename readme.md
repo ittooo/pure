@@ -1,4 +1,8 @@
 # Pure
+> different ys theme base on pure
+
+<img src="screenshot.png" width="864">
+
 <br>
 
 ---
